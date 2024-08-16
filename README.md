@@ -1,1 +1,1 @@
-# DiginqueTechLabs-Internship
+# DiginqueTechLabs-Internship by IIT ROORKEE
